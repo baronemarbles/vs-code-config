@@ -1,4 +1,6 @@
 # vs-code-config
-theme: catppucin - mocha(darker,current) or mocchiato;
-icons-theme:symbols;
-tree-ident: 11;
+<ul>
+  <li>theme: catppucin - mocha(darker,current) or mocchiato;</li>
+  <li>icons-theme:symbols;</li>
+  <li>tree-ident: 11;</li>
+</ul>
