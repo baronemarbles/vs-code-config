@@ -1,2 +1,4 @@
 # vs-code-config
-My vsvcode config
+theme: catppucin - mocha(darker,current) or mocchiato;
+icons-theme:symbols;
+tree-ident: 11;
